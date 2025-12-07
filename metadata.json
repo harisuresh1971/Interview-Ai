@@ -1,0 +1,8 @@
+{
+  "name": "MockMate AI",
+  "description": "An AI-powered mock interview platform that analyzes speech, content, and body language to help job seekers land their dream roles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
